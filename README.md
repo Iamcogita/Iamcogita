@@ -1,4 +1,4 @@
-<h1 align="center">HELLO</h1>
+<h1 align="left">HELLO STRANGER</h1>
 
 <h3 align="left">My socials:</h3>
 <p align="left">
