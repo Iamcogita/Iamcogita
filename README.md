@@ -1,7 +1,7 @@
 <h1 align="left">HELLO STRANGER</h1>
 
-<img src="https://github.com/user-attachments/assets/b633bb0a-3431-4771-bbf9-25f6e394c028" height="200" >
-<img src="https://github.com/user-attachments/assets/796f23a5-06e7-4d00-a8cc-cf0caaed78b0" height="200" >
+<img src="https://github.com/user-attachments/assets/b633bb0a-3431-4771-bbf9-25f6e394c028" height="100" >
+<img src="https://github.com/user-attachments/assets/796f23a5-06e7-4d00-a8cc-cf0caaed78b0" height="100" >
 
 <h3 align="left">My socials:</h3>
 <p align="left">
