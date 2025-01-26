@@ -1,5 +1,8 @@
 <h1 align="left">HELLO STRANGER</h1>
 
+<img src="https://github.com/user-attachments/assets/b633bb0a-3431-4771-bbf9-25f6e394c028" height="200" >
+<img src="https://github.com/user-attachments/assets/796f23a5-06e7-4d00-a8cc-cf0caaed78b0" height="200" >
+
 <h3 align="left">My socials:</h3>
 <p align="left">
 <a href="https://instagram.com/davidn01133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidn01133" height="30" width="40" /></a>
